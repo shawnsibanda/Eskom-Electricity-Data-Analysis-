@@ -5,4 +5,4 @@ This project analyzes South Africa’s electricity system using the **ESK2033 ho
 The objective is to uncover trends and understand electricity demand, export/import and generation patterns to make informed business insights.
 
 ### Dashboards overview
-![](visuals/overview.png)
+![Eskom Data Analysis](visuals/overview.png)
