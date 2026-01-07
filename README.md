@@ -38,7 +38,7 @@ The objective is to uncover trends and understand electricity demand, export/imp
    - Net Imports (Imports − Exports)
    - Total Generation
 ## Business Questions
--When does demand peak during the year?
--How much does South Africa rely on imports?
--How reliable are renewables compared to thermal?
--What hours show the highest system stress?
+- When does demand peak during the year?
+- How much does South Africa rely on imports?
+- How reliable are renewables compared to thermal?
+- What hours show the highest system stress?
