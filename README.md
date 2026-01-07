@@ -37,8 +37,35 @@ The objective is to uncover trends and understand electricity demand, export/imp
    - Total Pumped Storage Generation
    - Net Imports (Imports − Exports)
    - Total Generation
+
 ## Business Questions
 - When does demand peak during the year?
-- How much does South Africa rely on imports?
+- How much does South Africa rely on imports and exports?
 - How reliable are renewables compared to thermal?
 - What hours show the highest system stress?
+
+## Microsoft Excel
+[ESK2033 Clean Data](excel) - Contains transformed data from the csv dataset.
+
+## Power BI Dashboard
+An interactive Power BI report was built to visualize key insights.
+
+### Dashboard Pages:
+1. **Performance Overview**
+   - Average demand
+   - Peak demand
+   - Total generation
+   - Net emports
+   - Demand vs forecast trends
+
+2. **Generation Mix**
+   - Donut chart showing generation share by source
+   - Stacked area chart showing changes over time
+
+3. **Renewable Energy Analysis**
+   - Wind vs solar generation trends
+   - Hourly and monthly renewable patterns 
+
+4. **Imports & System Stress**
+   - Net emports vs demand
+   - Peak demand by hour of day
