@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes South Africa’s electricity system using the **ESK2033 hourly dataset**, covering the period from **April 2018 to March 2023**.  
-The objective is to uncover trends and understand electricity demand, export/import and generation patterns to make informed business insights and avoid another national crisis- Load Shedding.
+The objective is to uncover trends and understand electricity demand, export/import and generation patterns to derive insights and enforce the necessary precautions in an attempt to avoid another national crisis- Load Shedding.
 
 ### Dashboards overview
 ![Eskom Data Analysis](powerbi/visuals/overview.png)
@@ -81,3 +81,5 @@ An interactive Power BI report was built to visualize key insights.
   2. Limited renewable contribution during peak demand.
   3. Persistent reliance on imports.
   4. Forecast inaccuracies during peak periods.
+  
+## How can we try to minimize the chances of Loadshedding from the insights (Recommendations)?
