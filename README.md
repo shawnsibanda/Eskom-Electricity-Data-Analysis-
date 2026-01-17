@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes South Africa’s electricity system using the **ESK2033 hourly dataset**, covering the period from **April 2018 to March 2023**.  
-The objective is to uncover trends and understand electricity demand, export/import and generation patterns to make informed business insights.
+The objective is to uncover trends and understand electricity demand, export/import and generation patterns to make informed business insights and avoid another national crisis- Load Shedding.
 
 ### Dashboards overview
 ![Eskom Data Analysis](powerbi/visuals/overview.png)
@@ -13,7 +13,7 @@ The objective is to uncover trends and understand electricity demand, export/imp
 ##  Project Objectives
 - Clean and prepare raw Eskom data using Microsoft Excel (Power Query) for analysis.
 - Transform wide-format data into a tidy, analysis-ready structure.
-- Communicate insights clearly using data visualization.
+- Communicate insights clearly using data visualization in Power BI.
 
 ## Dataset
 ### ESK2033.csv
@@ -40,7 +40,7 @@ The objective is to uncover trends and understand electricity demand, export/imp
 - When does demand peak during the year?
 - How much does the system rely on imports and exports?
 - How reliable are renewables compared to thermal?
-- How have the methods of generation evolved over time?
+- Do renewables meaningfully contribute during peak demand periods?
 - What hours show the highest system stress?
 - What are the key risks identified from the analysis?
 
@@ -73,3 +73,11 @@ An interactive Power BI report was built to visualize key insights.
 ## Key Insights
 - Electricity demand consistently peaks during the evening hours (approximately 18:00–21:00) across all years analyzed.
 - The system relies more heavily on imports during high-demand periods, particularly during peak hours.
+- Thermal generation remains the dominant source, while renewable energy (wind and solar) has increased gradually but still represents a smaller share.
+- Renewables contribute to total generation but do not consistently align with peak demand hours. Renewables alone cannot reduce peak demand stress without storage or thermal backup.
+- The highest system stress occurs during evening peak hours, particularly when demand is high and renewable output is low.
+- Some of the risks identified from the analysis:
+  1. High dependence on thermal generation.
+  2. Limited renewable contribution during peak demand.
+  3. Persistent reliance on imports.
+  4. Forecast inaccuracies during peak periods.
