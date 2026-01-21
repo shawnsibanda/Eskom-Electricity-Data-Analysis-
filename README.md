@@ -83,3 +83,6 @@ An interactive Power BI report was built to visualize key insights.
   4. Forecast inaccuracies during peak periods.
   
 ## How can we try to minimize the chances of Loadshedding from the insights (Recommendations)?
+- Invest more on renewable (solar and wind) energy to generate electricity and avoid generation from sources that are expensive.
+- Avoid relying solely on imports during peak hours.
+- Improving plant performance to reduce system stress.
