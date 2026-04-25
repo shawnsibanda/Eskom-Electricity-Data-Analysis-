@@ -86,4 +86,4 @@ An interactive Power BI report was built to visualize key insights.
 ## Recommendations?
 - Invest more on renewable (solar and wind) energy to generate electricity and avoid generation from sources that are expensive.
 - Avoid relying solely on imports during peak hours.
-- Improving plant performance to reduce system stress.
+- Improve plant performance to reduce system stress.
